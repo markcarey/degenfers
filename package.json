@@ -1,0 +1,32 @@
+{
+  "devDependencies": {
+    "hardhat": "^2.11.1"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "@nomiclabs/hardhat-etherscan": "^3.1.0",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@nomiclabs/hardhat-web3": "^2.0.0",
+    "@openzeppelin/contracts": "^4.7.3",
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.2",
+    "ethers": "^5.5.4"
+  },
+  "name": "degenfers",
+  "description": "",
+  "version": "1.0.0",
+  "main": "hardhat.config.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markcarey/degenfers.git"
+  },
+  "author": "Mark Carey",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/markcarey/degenfers/issues"
+  },
+  "homepage": "https://github.com/markcarey/degenfers#readme"
+}
